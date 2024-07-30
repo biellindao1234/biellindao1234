@@ -4,7 +4,7 @@
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguavem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desemvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
  ### Você pode entrar em contato comigo 📮
 00001119173759sp@al.educacao.sp.gov.br ou @bielzys
